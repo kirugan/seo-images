@@ -1,0 +1,13 @@
+{
+    "name": "kirugan/seo-images",
+    "description": "Find all images from your site. Generate seo report.",
+    "require": {
+        "symfony/console": "~2.6"
+    },
+    "authors": [
+        {
+            "name": "Kirill Paltsev",
+            "email": "bestestmaiL@gmail.com"
+        }
+    ]
+}
